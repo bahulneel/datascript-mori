@@ -1,5 +1,5 @@
 {
-  "name": "datascript-mori",
+  "name": "@bahulneel/datascript-mori",
   "version": "0.18.0",
   "description": "Wrapper for datascript interplay mori",
   "homepage": "https://github.com/typeetfunc/datascript-mori",
