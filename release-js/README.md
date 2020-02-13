@@ -22,13 +22,13 @@ npm install @bahulneel/datascript-mori
 ```
 
 ```js
-var ds = require('datascript-mori');
+var ds = require('@bahulneel/datascript-mori');
 ```
 
 or as a RequireJS module:
 
 ```js
-require(['datascript-mori'], function(ds) { ... });
+require(['@bahulneel/datascript-mori'], function(ds) { ... });
 ```
 
 ## License
