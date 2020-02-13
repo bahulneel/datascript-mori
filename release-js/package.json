@@ -1,6 +1,6 @@
 {
   "name": "@bahulneel/datascript-mori",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "description": "Wrapper for datascript interplay mori",
   "homepage": "https://github.com/typeetfunc/datascript-mori",
   "author": "Andrei Melnikov (https://github.com/typeetfunc)",
